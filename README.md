@@ -17,4 +17,4 @@
 - 有效日期：大於當年月即可
 - 手機號：真實可用的手機號（用於傳送驗證碼）
 
-[查看網頁 >](https://shoparoundnet.com/MCD1/templates/index.php)
+[查看專案網頁 >](https://shoparoundnet.com/MCD1/templates/index.php)
